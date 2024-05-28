@@ -7,4 +7,4 @@ Required Dependencies:
 - SciPy
 - Pandas
 - Matplotlib
-- PySide6 (optional preferred backend)
+- Tkinter or PySide6 (for matplotlib backend, can be configured in spectools file)
