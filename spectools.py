@@ -10,7 +10,8 @@ import scipy.signal as sp_sig
 
 import matplotlib.pyplot as plt
 
-mpl.use("QtAgg")
+# Remove comment to enable PySide backend
+# mpl.use("QtAgg")
 
 fig = plt.figure()
 ax = fig.add_subplot()
